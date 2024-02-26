@@ -13,5 +13,6 @@
     height: 50px;
     border: 5px solid red;
     background-color: rgb(220, 90, 90);
+    border-radius: 10px;
     margin: 2px;
 }
